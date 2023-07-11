@@ -1,0 +1,9 @@
+모바일 실습 시 실습환경은 반드시 다음 V3.10 버전을 사용해 주시기 바랍니다.
+
+* 표준프레임워크 개발자 교육 교재 및 실습 for Win (V3.10.0)
+https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=65&bbsId=4&nttId=1741
+
+* 표준프레임워크 개발자 교육 교재 및 실습 for Mac (V3.10.0)
+https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=65&bbsId=4&nttId=1742
+
+
